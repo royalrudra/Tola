@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>128032691483-5g488cvacqacbd400k83aae36a5470fr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.128032691483-5g488cvacqacbd400k83aae36a5470fr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDtAzut0xckFkiVJIZs8Rvlq6qQuMRYDog</string>
+	<key>GCM_SENDER_ID</key>
+	<string>128032691483</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.purplequantum.tola</string>
+	<key>PROJECT_ID</key>
+	<string>tola-73e7f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tola-73e7f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:128032691483:ios:ad0a2dee326566be</string>
+	<key>DATABASE_URL</key>
+	<string>https://tola-73e7f.firebaseio.com</string>
+</dict>
+</plist>

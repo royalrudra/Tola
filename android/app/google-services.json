@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "128032691483",
+    "firebase_url": "https://tola-73e7f.firebaseio.com",
+    "project_id": "tola-73e7f",
+    "storage_bucket": "tola-73e7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128032691483:android:1761a52f1ac68f29",
+        "android_client_info": {
+          "package_name": "com.pq.tola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeavCOeynJOfgUGh8Ejxo2AHC9auOkMxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128032691483-pfhmo0von2ubfcv5h0adjr5mp14e7bfo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128032691483-eugbepqc0n1dclf3jgmuudm7pusnesou.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pq.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
